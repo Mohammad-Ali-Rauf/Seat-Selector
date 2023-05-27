@@ -96,7 +96,6 @@ body {
 .container {
     perspective: 1000px;
     width: 300rem;
-/*     margin-left: 50%; */
 }
 
 .row {
